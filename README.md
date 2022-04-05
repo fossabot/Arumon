@@ -1,4 +1,6 @@
 # Arumon
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farumon-team%2FArumon.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Farumon-team%2FArumon?ref=badge_shield)
+
 ## BenToGo
 ### Problem
 日本では政府から週末の外出自粛の要請がおこなわれており、密閉・密集・密接を避けるように言われている。
@@ -85,3 +87,7 @@ We will support both users who would like to avoid the crowd situation/higher in
 - Promote the service with restaurants
 - Automate the building/delegating process of the site
 - Provide several kinds of theme for the site
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farumon-team%2FArumon.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Farumon-team%2FArumon?ref=badge_large)
